@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(void){
-    float download_speed_mbps; 
+    float download_speed_mbps; //скорость загрузки в мегабитах
     float file_size_MB;
     float download_speed_MBps;
     printf("Введите скорость загрузки в мегабитах:");
