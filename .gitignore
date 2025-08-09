@@ -53,3 +53,11 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# custom files
+*~
+*.[oa]
+
+# my notes:
+# 1. !lib.a - inversion pattern
+# 2. build/ - ignore all files in the build catalog
