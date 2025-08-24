@@ -4,7 +4,6 @@
 #define PI 3.141593 
 int main (void)
 {
-setlocale(LC_ALL, "ru_RU.utf8");
 int number = 7; 
 float pies = 12,75; 
 int cost = 7800;
