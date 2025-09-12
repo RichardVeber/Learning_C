@@ -7,6 +7,6 @@ while (super < 5)
 super++;
 ++ultra;
 printf("super = %d, ultra = %d \n", super, ultra);
-return 0;
 }
+return 0;
 }
